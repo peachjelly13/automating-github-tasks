@@ -25,7 +25,7 @@ Create a `.env` file in the same directory as this script with the following var
 GITHUB_USERNAME=your_github_username
 GITHUB_PASSWORD=your_github_password_or_personal_access_token
 PROJECT_NAME=your_project_name
-
+```
 
 ### **Summary**
 
